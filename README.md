@@ -4,7 +4,7 @@
 ![Header](./github-header-image.png)
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on e-commerce and recipe management apps.
+- 🔭 I’m currently working on Enhancing my Skills.
 - 🌱 I’m learning advanced React and Redux.
 - 💬 Ask me about front-end development, React, and JavaScript.
 - 📫 How to reach me: 003anjaliyadav@gmail.com
