@@ -1,7 +1,7 @@
-<!--# Hi there, I'm Anjali 👋-->
+# Hi there, I'm Anjali 👋
 
-<!--![Profile Banner](https://link-to-your-banner.com/banner.png)-->
-![Header](./github-header-image.png)
+![Profile Banner](https://link-to-your-banner.com/banner.png)![Profile Banner](https://user-images.githubusercontent.com/67447840/201658051-0bcebf00-5ef3-4db2-86b4-37e9f61f6ff0.png)
+<!--![Header](./github-header-image.png)-->
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on Enhancing my Skills.
