@@ -1,5 +1,5 @@
-<!--# Hi there, I'm Anjali 👋-->
-![Header](./github-header-image.png)
+# Hi there, I'm Anjali 👋
+
 ![Profile Banner](https://link-to-your-banner.com/banner.png)
 
 ## 👨‍💻 About Me
