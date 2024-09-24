@@ -1,6 +1,7 @@
-# Hi there, I'm Anjali 👋
+<!--# Hi there, I'm Anjali 👋-->
 
-![Profile Banner](https://link-to-your-banner.com/banner.png)
+<!--![Profile Banner](https://link-to-your-banner.com/banner.png)-->
+![Header](./github-header-image.png)
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on e-commerce and recipe management apps.
